@@ -1,0 +1,32 @@
+_repo: Mr-Zytztz-goes-to-Mars_70257
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Loomis, Noel M.
+    aliases:
+    - Loomis, Noel Miller
+    - Miller, Benj.
+    - Water, Silas
+    birthdate: 1905
+    deathdate: 1969
+    gutenberg_agent_id: '35155'
+    url: http://www.gutenberg.org/2009/agents/35155
+    wikipedia: https://en.wikipedia.org/wiki/Noel_Loomis
+description: ''
+gutenberg_issued: '2023-03-10'
+identifiers:
+  gutenberg: '70257'
+language: en
+pgterms:marc905: 20220515105203loomis
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStandard Magazines, Inc., $c1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mr. Zytztz goes to Mars
+url: http://www.gutenberg.org/ebooks/70257
